@@ -1,10 +1,9 @@
 # FileManagerDemo V 2.1.0
 
-This FileManagerDemo is designed to simulate a file managing system, multiple main commands is simulated in this project.
+This FileManagerDemo is designed to simulate a file managing system, multiple main commands is achieved in this demo project
 
 Core Features
 show a cheatsheet of all commands built inside: 
-
 search file in current folder
 create file in current folder
 check existance of a file in current folder
